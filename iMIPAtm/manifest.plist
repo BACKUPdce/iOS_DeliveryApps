@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://github.com/BACKUPdce/iOS_DeliveryApps/raw/master/iMIPAtm/57_MIPAtm.png</string>
+					<string>https://github.com/BACKUPdce/iOS_DeliveryApps/raw/master/iMIPAtm/57_iMIPAtm.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://github.com/BACKUPdce/iOS_DeliveryApps/raw/master/iMIPAtm/512_MIPAtm.png</string>
+					<string>https://github.com/BACKUPdce/iOS_DeliveryApps/raw/master/iMIPAtm/512_iMIPAtm.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
