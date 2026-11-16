@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://mega.nz/file/llsBAZ7Z#kcBl55cqiZa9la1G5wSvm7O-59R1MbafeQrIjpT6PNY</string>
+					<string>https://github.com/BACKUPdce/iOS_DeliveryApps/raw/master/SandBox1/Sandbox.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,15 +29,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ArnaudGUERRY.Sandbox1</string>
+				<string>DCENG.iMIPAtm</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>4.2.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>Sandbox1</string>
+				<string>iMIPAtm</string>
 			</dict>
 		</dict>
 	</array>
